@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=MCU_USB_D_N Pin=U4-1
+Removed Pin From Net: NetName=GND Pin=U4-2
+Removed Pin From Net: NetName=MCU_USB_D_P Pin=U4-3
+Removed Pin From Net: NetName=USB_D_P Pin=U4-4
+Removed Pin From Net: NetName=+VBUS Pin=U4-5
+Removed Pin From Net: NetName=USB_D_N Pin=U4-6
+Removed Member From Class: ClassName=Sheet1 Member=U4
+Added Component: Designator=U?(SOT95P280X145-6N)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/USBLC6-2SC6/STMicroelectronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "USBLC6-2SC6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23-6 STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/USBLC6-2SC6/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/USBLC6-2SC6/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Pin To Net: NetName=GND Pin=U6-6
+Added Pin To Net: NetName=MCU_USB_D_P Pin=U?-1
+Added Pin To Net: NetName=GND Pin=U?-2
+Added Pin To Net: NetName=MCU_USB_D_N Pin=U?-3
+Added Pin To Net: NetName=USB_D_N Pin=U?-4
+Added Pin To Net: NetName=+VBUS Pin=U?-5
+Added Pin To Net: NetName=USB_D_P Pin=U?-6
+Added Member To Class: ClassName=Sheet1 Member=Component U? USBLC6-2SC6
